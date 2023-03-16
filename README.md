@@ -1,2 +1,2 @@
 # jslessons
-JavaScript lessons via udemy
+JavaScript lessons
